@@ -6,8 +6,9 @@
 
 ### Connect with me
 - [Email](mailto:hello@mehulgohil.com)
-- [Twitter](https://twitter.com/mehul_gohil0810)
-- [Facebook](https://facebook.com/mehulgohilindia)
+
+![Twitter](https://img.shields.io/badge/TWITTER-%40mehul__gohil0810-%231DA1F2.svg?style=for-the-badge&logo=twitter&url=https://twitter.com/mehul_gohil0810) ![Facebook](https://img.shields.io/badge/FACEBOOK-mehulgohilindia-%231877F2.svg?style=for-the-badge&logo=facebook&url=https://facebook.com/mehulgohilindia) ![GitHub](https://img.shields.io/badge/GITHUB-mehul0810-%23181717.svg?style=for-the-badge&logo=github&url=https://github.com/mehul0810)
+
 
 ### Support me
 
