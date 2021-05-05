@@ -7,7 +7,18 @@
 ### Connect with me
 - [Email](mailto:hello@mehulgohil.com)
 
-![Twitter](https://img.shields.io/badge/TWITTER-%40mehul__gohil0810-%231DA1F2.svg?style=for-the-badge&logo=twitter&url=https://twitter.com/mehul_gohil0810) ![Facebook](https://img.shields.io/badge/FACEBOOK-mehulgohilindia-%231877F2.svg?style=for-the-badge&logo=facebook&url=https://facebook.com/mehulgohilindia) ![GitHub](https://img.shields.io/badge/GITHUB-mehul0810-%23181717.svg?style=for-the-badge&logo=github&url=https://github.com/mehul0810)
+### Social Profiles
+_Click to "Say Hi"_
+
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@mehul_gohil0810&color=ffffff&style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=ffffff)](https://twitter.com/mehul_gohil0810)
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=facebook&labelColor=1877F2&logoColor=ffffff)](https://facebook.com/mehulgohilindia)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/mehulgohilindia/) 
+
+### Development Profiles
+_Click to check out awesome projects_
+
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=mehul0810&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/mehul0810)
+[![WordPress](https://img.shields.io/static/v1?label=WordPress&message=mehul0810&color=ffffff&style=for-the-badge&logo=wordpress&labelColor=21759B&logoColor=ffffff)](https://github.com/mehul0810)
 
 
 ### Support me
