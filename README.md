@@ -18,7 +18,7 @@ _Click to "Say Hi"_
 _Click to check out awesome projects_
 
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=mehul0810&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/mehul0810)
-[![WordPress](https://img.shields.io/static/v1?label=WordPress&message=mehul0810&color=ffffff&style=for-the-badge&logo=wordpress&labelColor=21759B&logoColor=ffffff)](https://github.com/mehul0810)
+[![WordPress](https://img.shields.io/static/v1?label=WordPress&message=mehul0810&color=ffffff&style=for-the-badge&logo=wordpress&labelColor=21759B&logoColor=ffffff)](https://profiles.wordpress.org/mehul0810)
 
 ### Support my contributions
 _I spend atleast 5 hours a week on open-source project contributions_
