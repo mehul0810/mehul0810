@@ -4,9 +4,6 @@
 
 💬 Ask me anything about WordPress and Performance Optimization.
 
-### Connect with me
-- [Email](mailto:hello@mehulgohil.com)
-
 ### Social Profiles
 _Click to "Say Hi"_
 
