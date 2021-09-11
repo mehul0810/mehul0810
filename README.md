@@ -21,3 +21,7 @@ _Click to check out awesome projects_
 _I spend atleast 5 hours a week on open-source project contributions_
 
 [![BuyMeACoffee](https://img.shields.io/static/v1?label=Buy%20Me%20A%20Coffee&message=mehulgohil&color=ffffff&style=for-the-badge&logo=buymeacoffee&labelColor=FFDD00&logoColor=ffffff)](https://buymeacoffee.com/mehulgohil)
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
