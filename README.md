@@ -7,7 +7,8 @@
 ### Social Profiles
 _Click to "Say Hi"_
 
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@mehul_gohil0810&color=ffffff&style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=ffffff)](https://twitter.com/mehul_gohil0810) <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=mehul0810&count_private=true&theme=radical&show_icons=true" />
+<p align="left"> <a href="https://twitter.com/mehul0810" target="blank"><img src="https://img.shields.io/twitter/follow/mehul0810?logo=twitter&style=for-the-badge" alt="Mehul Gohil (@mehul_gohil0810)" /></a> </p>
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@mehul_gohil0810&color=ffffff&style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=ffffff)](https://twitter.com/mehul_gohil0810)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=facebook&labelColor=1877F2&logoColor=ffffff)](https://facebook.com/mehulgohilindia)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/mehulgohilindia/) 
 
