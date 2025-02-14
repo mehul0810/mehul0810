@@ -1,0 +1,33 @@
+name: Update Blog Posts in README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs at the top of every hour (adjust as needed)
+  workflow_dispatch:     # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install feedparser
+
+      - name: Run Update Script
+        run: python scripts/update_readme.py
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff-index --quiet HEAD || (git commit -m "Update blog posts in README" && git push)
