@@ -19,7 +19,9 @@ I’m a **Certified Freelance WordPress Developer** with over **12 years of expe
 Stay updated with my latest insights on WordPress development, performance optimization, and digital strategy.
 
 <!-- BEGIN BLOG POSTS -->
-<!-- Blog posts will be automatically inserted here by GitHub Actions -->
+- [How to Turn Off Trackback Spam in WordPress?](https://mehulgohil.com/blog/how-to-turn-off-trackback-spam-in-wordpress/)
+- [Import CSV data using PHP](https://mehulgohil.com/blog/import-csv-data-using-php/)
+- [Manage Users with WP CLI](https://mehulgohil.com/blog/manage-users-with-wp-cli/)
 <!-- END BLOG POSTS -->
 
 [View All Posts](https://mehulgohil.com/blog)
