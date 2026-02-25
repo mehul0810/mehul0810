@@ -1,53 +1,98 @@
-# Hi, I'm Mehul Gohil! 👋
+# Hi, I’m Mehul Gohil
 
-I’m a **Certified Freelance WordPress Developer** with over **12 years of experience** in creating high-performance, conversion-focused, and SEO-friendly WordPress solutions. I specialize in custom plugin and theme development, performance optimization, and delivering digital excellence to help businesses succeed online.
+Enterprise WordPress Engineer focused on performance architecture, system reliability, and revenue-critical platform stability.
 
-## About Me
+**WPVIP Advanced Professional WordPress Developer Certified** · Codeable Certified Expert · Vetted Toptal Talent  
 
-- **WordPress Performance Expert:** I help clients streamline their websites by eliminating unnecessary code and optimizing performance.
-- **Plugin Author & Developer:** Creator of innovative plugins designed to provide solutions to real problems.
-- **Community Leader:** Active in WordPress events and passionate about sharing my knowledge through open-source contributions.
+I design, stabilize, and operate WordPress systems that must survive scale, traffic spikes, complex integrations, and long-term operational growth.
 
-## What I Do
-
-- **Custom WordPress Development:** Tailored solutions that align with your business goals.
-- **Performance Audits & Optimization:** Comprehensive audits that pinpoint issues and boost your site’s speed and SEO.
-- **Open-Source Projects:** Leading initiatives like the [Perform WordPress Plugin](https://github.com/performwp/perform) that make WordPress sites faster and cleaner.
-
-## Latest Blog Posts
-
-Stay updated with my latest insights on WordPress development, performance optimization, and digital strategy.
-
-<!-- BEGIN BLOG POSTS -->
-- [How to Create a Custom WordPress Plugin? – Step-by-Step Guide](https://mehulgohil.com/blog/how-to-create-a-custom-wordpress-plugin/)
-- [How to Turn Off Trackback Spam in WordPress?](https://mehulgohil.com/blog/how-to-turn-off-trackback-spam-in-wordpress/)
-- [Import CSV data using PHP](https://mehulgohil.com/blog/import-csv-data-using-php/)
-<!-- END BLOG POSTS -->
-
-[View All Posts](https://mehulgohil.com/blog)
-
-## Subscribe to My Newsletter
-
-Don’t miss expert tips and actionable insights on WordPress performance and development.  
-[**Subscribe Now**](https://mehulgohil.com/newsletter) to receive the latest updates directly to your inbox.
-
-## Let's Connect
-
-I'm always excited to discuss new projects, answer your questions, or explore collaboration opportunities.  
-**[Contact Me for a Free Quote](https://mehulgohil.com/contact)**
-
-You can also follow me on:
-- **X/Twitter:** [X/Twitter](https://twitter.com/mehul_gohil0810)
-- **LinkedIn:** [LinkedIn](https://orcid.org/0009-0008-3230-7038)
-- **Website:** [Website](https://mehulgohil.com)
-
-## Featured Projects
-
-- **[Perform WordPress Plugin](https://github.com/performwp/perform):**  
-  An open-source project that optimizes WordPress sites by removing redundant features, styles, and scripts.
-- **[wp-distraction-free-view](https://github.com/mehul0810/wp-distraction-free-view):**  
-  Enhance content readability with a distraction-free viewing mode.
-  
 ---
 
-By constantly updating this space with fresh insights and dynamic content, I aim to connect with fellow WordPress enthusiasts and business owners looking to boost their site’s performance. Let's build something great together!
+## Core Engineering Focus
+
+### Architecture & Reliability
+
+- Scalable WordPress system design  
+- Upgrade-safe plugin and theme structures  
+- Clean data modeling and query optimization  
+- Infrastructure alignment and hosting strategy  
+- Long-term governance planning  
+
+### Performance Engineering
+
+- [WP_Query optimization](https://mehulgohil.com/blog/optimize-wp-query-performance/)
+- Database structure evaluation  
+- Asset loading discipline  
+- Core Web Vitals stability  
+- Load-based failure pattern prevention  
+
+### Revenue-Critical WooCommerce Systems
+
+- Subscription and recurring revenue platforms  
+- Payment gateway integrations  
+- Tax and shipping logic engineering  
+- Checkout reliability under scale  
+
+---
+
+## Products
+
+### OneCaptcha
+Protect your WordPress and WooCommerce forms with smart, seamless CAPTCHA integration. Supports Google reCAPTCHA, hCaptcha, and Cloudflare Turnstile — no bloat, just better spam-free security for your WordPress website.
+[Visit Website](https://onecaptchawp.com)
+
+### ThemeRouter  
+Zero-downtime WordPress theme migration for agencies and enterprise teams. Route themes safely. Redesign incrementally. Launch with confidence.
+[Visit Website](https://themerouter.com)
+
+### Perform  
+Performance optimization plugin focused on removing unnecessary WordPress overhead and improving structural efficiency.  
+[Visit website](https://performwp.com)
+
+---
+
+## Audits & Structured Engagements
+
+For revenue-critical platforms, structured evaluation always precedes implementation.
+
+- [WordPress Readiness & Risk Assessment](https://mehulgohil.com/services/wordpress-readiness-risk-assessment-audit/)
+
+- [WordPress Technical Architecture & Reliability Audit](https://mehulgohil.com/services/wordpress-technical-architecture-reliability-audit/)
+
+- [WordPress Performance Audit](https://mehulgohil.com/services/wordpress-performance-audit/)
+
+---
+
+## Selected Enterprise Writing
+
+- [WPVIP Advanced Professional WordPress Developer Certification](https://mehulgohil.com/blog/wpvip-advanced-professional-wordpress-developer-certification/)
+
+- [WordPress Coding Standards in Production Systems](https://mehulgohil.com/blog/wpcs-wordpress-coding-standards/)
+
+- [How to Enqueue Scripts the Right Way in WordPress](https://mehulgohil.com/blog/how-to-enqueue-scripts-in-wordpress/)
+
+[Explore more](https://mehulgohil.com/blog)
+
+---
+
+## Engineering Philosophy
+
+WordPress should be treated as production infrastructure — not a plugin stack.
+
+Every system should be evaluated for:
+
+- Structural integrity  
+- Performance predictability  
+- Upgrade resilience  
+- Security posture  
+- Operational sustainability  
+
+Engineering discipline prevents scaling failures.
+
+---
+
+## Connect
+
+Website: https://mehulgohil.com  
+LinkedIn: https://www.linkedin.com/in/mehulgohil/  
+X/Twitter: https://twitter.com/mehul_gohil0810  
