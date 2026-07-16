@@ -1,98 +1,50 @@
 # Hi, I’m Mehul Gohil
 
-Enterprise WordPress Engineer focused on performance architecture, system reliability, and revenue-critical platform stability.
+## Enterprise WordPress Developer and Consultant
 
-**WPVIP Advanced Professional WordPress Developer Certified** · Codeable Certified Expert · Vetted Toptal Talent  
+I help businesses, agencies, and product teams solve complex WordPress problems—from platforms that slow down under real traffic to custom systems that have become difficult to maintain.
 
-I design, stabilize, and operate WordPress systems that must survive scale, traffic spikes, complex integrations, and long-term operational growth.
+With 13+ years of WordPress experience, I work across architecture, performance, security, custom development, WooCommerce, migrations, and third-party integrations. My role combines hands-on engineering with technical consulting: I diagnose the real issue, explain the tradeoffs, and build solutions your team can maintain.
 
----
+[Website](https://mehulgohil.com/) · [Services](https://mehulgohil.com/services/) · [About](https://mehulgohil.com/about/) · [Insights](https://mehulgohil.com/blog/) · [Contact](https://mehulgohil.com/contact/)
 
-## Core Engineering Focus
+## How I can help
 
-### Architecture & Reliability
+- [**Enterprise WordPress**](https://mehulgohil.com/services/enterprise-wordpress/) — technical leadership and hands-on engineering for high-traffic, business-critical platforms
+- [**Performance optimization**](https://mehulgohil.com/services/wordpress-performance-optimization/) — evidence-led diagnosis and durable fixes for frontend, backend, database, and caching bottlenecks
+- [**Custom plugin development**](https://mehulgohil.com/services/wordpress-plugin-development/) — secure, scalable plugins, Gutenberg experiences, business workflows, and API integrations
+- [**Architecture and reliability audits**](https://mehulgohil.com/services/wordpress-technical-architecture-reliability-audit/) — clear analysis of structural risk, technical debt, scalability, and upgrade safety
+- [**Ongoing WordPress partnership**](https://mehulgohil.com/services/ongoing-partnership/) — continued development, monitoring, technical direction, and platform care
 
-- Scalable WordPress system design  
-- Upgrade-safe plugin and theme structures  
-- Clean data modeling and query optimization  
-- Infrastructure alignment and hosting strategy  
-- Long-term governance planning  
+## How I work
 
-### Performance Engineering
+I start with business context and evidence before changing code. That leads to clearer scope, fewer assumptions, and solutions that address root causes instead of masking symptoms.
 
-- [WP_Query optimization](https://mehulgohil.com/blog/optimize-wp-query-performance/)
-- Database structure evaluation  
-- Asset loading discipline  
-- Core Web Vitals stability  
-- Load-based failure pattern prevention  
+Performance and security are architectural decisions, not cleanup tasks. Maintainable code, documented tradeoffs, careful validation, and direct communication are part of every engagement.
 
-### Revenue-Critical WooCommerce Systems
+## Selected work
 
-- Subscription and recurring revenue platforms  
-- Payment gateway integrations  
-- Tax and shipping logic engineering  
-- Checkout reliability under scale  
+- [Building the eBookCrafter Plugin for WordPress](https://mehulgohil.com/case-studies/ebookcrafter-custom-plugin-development/) — taking a product idea from prototype to a production-ready Gutenberg and React plugin
+- [Migrating and Redesigning PhotoEventDD](https://mehulgohil.com/case-studies/photoeventdd-wix-to-wordpress/) — moving a photography platform from Wix to a flexible WordPress foundation
 
----
+Alongside client work, I build focused WordPress products including [ThemeRouter](https://themerouter.com), [OneCaptcha](https://onecaptchawp.com), and [PerformWP](https://performwp.com).
 
-## Products
+## Experience and credentials
 
-### OneCaptcha
-Protect your WordPress and WooCommerce forms with smart, seamless CAPTCHA integration. Supports Google reCAPTCHA, hCaptcha, and Cloudflare Turnstile — no bloat, just better spam-free security for your WordPress website.
-[Visit Website](https://onecaptchawp.com)
+[WPVIP Advanced Professional WordPress Developer](https://mehulgohil.com/blog/wpvip-advanced-professional-wordpress-developer-certification/) · Codeable Certified Expert · Vetted Toptal Talent
 
-### ThemeRouter  
-Zero-downtime WordPress theme migration for agencies and enterprise teams. Route themes safely. Redesign incrementally. Launch with confidence.
-[Visit Website](https://themerouter.com)
+## Recent WordPress insights
 
-### Perform  
-Performance optimization plugin focused on removing unnecessary WordPress overhead and improving structural efficiency.  
-[Visit website](https://performwp.com)
-
----
-
-## Audits & Structured Engagements
-
-For revenue-critical platforms, structured evaluation always precedes implementation.
-
-- [WordPress Readiness & Risk Assessment](https://mehulgohil.com/services/wordpress-readiness-risk-assessment-audit/)
-
-- [WordPress Technical Architecture & Reliability Audit](https://mehulgohil.com/services/wordpress-technical-architecture-reliability-audit/)
-
-- [WordPress Performance Audit](https://mehulgohil.com/services/wordpress-performance-audit/)
-
----
-
-## Selected Enterprise Writing
-
+<!-- BEGIN BLOG POSTS -->
+- [Enterprise WordPress Accessibility Governance: WCAG, Ownership, and Delivery](https://mehulgohil.com/blog/enterprise-wordpress-accessibility-governance/)
+- [WooCommerce Meta Queries vs Custom Tables: When to Use Each at Scale](https://mehulgohil.com/blog/meta-queries-vs-custom-tables-woocommerce-scale/)
 - [WPVIP Advanced Professional WordPress Developer Certification](https://mehulgohil.com/blog/wpvip-advanced-professional-wordpress-developer-certification/)
+<!-- END BLOG POSTS -->
 
-- [WordPress Coding Standards in Production Systems](https://mehulgohil.com/blog/wpcs-wordpress-coding-standards/)
+[Read more WordPress engineering insights](https://mehulgohil.com/blog/)
 
-- [How to Enqueue Scripts the Right Way in WordPress](https://mehulgohil.com/blog/how-to-enqueue-scripts-in-wordpress/)
+## Let’s talk
 
-[Explore more](https://mehulgohil.com/blog)
+If you have a WordPress platform, product, or technical decision that needs senior direction, [share the details](https://mehulgohil.com/contact/). I personally review every enquiry.
 
----
-
-## Engineering Philosophy
-
-WordPress should be treated as production infrastructure — not a plugin stack.
-
-Every system should be evaluated for:
-
-- Structural integrity  
-- Performance predictability  
-- Upgrade resilience  
-- Security posture  
-- Operational sustainability  
-
-Engineering discipline prevents scaling failures.
-
----
-
-## Connect
-
-Website: https://mehulgohil.com  
-LinkedIn: https://www.linkedin.com/in/mehulgohil/  
-X/Twitter: https://twitter.com/mehul_gohil0810  
+[LinkedIn](https://www.linkedin.com/in/mehulgohil/) · [X](https://x.com/mehul_gohil0810) · [WordPress.org](https://profiles.wordpress.org/mehul0810/)

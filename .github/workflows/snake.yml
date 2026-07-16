@@ -2,12 +2,12 @@
 
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
+# Controls when the action will run. This action runs once each calendar month.
 
 on:
   schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
+    # At 09:00 UTC on the first day of every month.
+    - cron: "0 9 1 * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
